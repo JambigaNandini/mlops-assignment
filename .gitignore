@@ -1,0 +1,9 @@
+my_features/feast_env/
+my_features/mlruns/
+my_features/*.pkl
+node-installer.msi
+__pycache__/
+*.pyc
+node_modules/
+my_features/data/
+*.db
