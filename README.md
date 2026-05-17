@@ -4,7 +4,7 @@
 
 \## 👤 Submitted By
 
-\- Name: Nandini
+\- Name: Jambiga Nandini
 
 \- Company: AISPry
 
